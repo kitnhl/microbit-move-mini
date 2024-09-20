@@ -1,14 +1,15 @@
-# microbit-samples
+# microbit-move-mini
 
-A collection of example programs using the micro:bit runtime.
+## Functionality
 
-The source/examples folder contains a selection of samples demonstrating the capabilities and usage of the runtime APIs.
-To select a sample, simply copy the .cpp files from the relevant folder into the source/ folder.
+A collection of programs for the Kitronik :MOVE Mini robot using the micro:bit runtime.
 
-e.g. to select the "invaders" example:
+To select a program, simply copy the .cpp files from the relevant source/programs folder into the source/ folder.
+
+e.g. to select the "square" example:
 
 ```
-cp source/examples/invaders/* source
+cp source/examples/square/* source
 ```
 
 and then to compile your sample:
