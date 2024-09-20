@@ -1,5 +1,5 @@
 #include "MicroBit.h"
-#include "kitronik_servo_lite.h"
+#include "kitronik_servo_lite.hpp"
 
 const int milliSecInASecond = 1000;
 int distancePerSec = 100;

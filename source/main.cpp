@@ -24,7 +24,7 @@ SOFTWARE.
 */
 
 #include "MicroBit.h"
-#include "kitronik_servo_lite.h"
+#include "kitronik_servo_lite.hpp"
 
 MicroBit uBit;
 
